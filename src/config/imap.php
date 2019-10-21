@@ -10,6 +10,8 @@
 *  -
 */
 
+defined('FT_UID') or define('FT_UID', 1);
+
 return [
 
     /*
